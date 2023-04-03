@@ -1,0 +1,97 @@
+{
+    "status": "success",
+    "items": 6,
+    "categories": [
+    {
+    "id": "9ce7e855-8bb9-4a0b-83b8-e455e57ca072",
+    "name": "tecnologias",
+    "createdAt": "2022-12-18T01:49:35.457Z",
+    "updatedAt": "2022-12-18T01:49:35.457Z",
+    "subCategories": [
+    {
+    "id": "bca3e972-c43d-4147-9245-0a00233d4235",
+    "name": "smartphone",
+    "typeCategories": [
+    {
+    "id": "3aaad8c1-6e04-40eb-8a2f-af6335e76262",
+    "name": "samsung",
+    "url": "http://localhost:8000/api/v1/categories/9ce7e855-8bb9-4a0b-83b8-e455e57ca072/subcategories/bca3e972-c43d-4147-9245-0a00233d4235/type/3aaad8c1-6e04-40eb-8a2f-af6335e76262/products"
+    },
+    {
+    "id": "bcf54298-7217-4883-a74f-d819fa17a92b",
+    "name": "apple",
+    "url": "http://localhost:8000/api/v1/categories/9ce7e855-8bb9-4a0b-83b8-e455e57ca072/subcategories/bca3e972-c43d-4147-9245-0a00233d4235/type/bcf54298-7217-4883-a74f-d819fa17a92b/products"
+    }
+    ],
+    "url": "http://localhost:8000/api/v1/categories/9ce7e855-8bb9-4a0b-83b8-e455e57ca072/subcategories/bca3e972-c43d-4147-9245-0a00233d4235/products"
+    },
+    {
+    "id": "c9eeb810-84f3-4cea-a5b1-f4be45c5dd88",
+    "name": "smart tv",
+    "typeCategories": [
+    {
+    "id": "480c00cc-1279-4aee-b047-2b99e2677e28",
+    "name": "TVs over 50",
+    "url": "http://localhost:8000/api/v1/categories/9ce7e855-8bb9-4a0b-83b8-e455e57ca072/subcategories/c9eeb810-84f3-4cea-a5b1-f4be45c5dd88/type/480c00cc-1279-4aee-b047-2b99e2677e28/products"
+    }
+    ],
+    "url": "http://localhost:8000/api/v1/categories/9ce7e855-8bb9-4a0b-83b8-e455e57ca072/subcategories/c9eeb810-84f3-4cea-a5b1-f4be45c5dd88/products"
+    }
+    ],
+    "url": "http://localhost:8000/api/v1/categories/9ce7e855-8bb9-4a0b-83b8-e455e57ca072/products"
+    },
+    {
+    "id": "4d9ccc47-d7b1-4600-9124-a33e2c363e46",
+    "name": "calzado",
+    "createdAt": "2022-12-18T01:49:35.457Z",
+    "updatedAt": "2022-12-18T01:49:35.457Z",
+    "subCategories": [
+    {
+    "id": "1367b04d-920d-4004-a96c-8e5da2872a69",
+    "name": "hombre",
+    "typeCategories": [
+    {
+    "id": "6716fa7e-bd98-4abf-aba0-2282025e801b",
+    "name": "zapatillas urbanas",
+    "url": "http://localhost:8000/api/v1/categories/4d9ccc47-d7b1-4600-9124-a33e2c363e46/subcategories/1367b04d-920d-4004-a96c-8e5da2872a69/type/6716fa7e-bd98-4abf-aba0-2282025e801b/products"
+    }
+    ],
+    "url": "http://localhost:8000/api/v1/categories/4d9ccc47-d7b1-4600-9124-a33e2c363e46/subcategories/1367b04d-920d-4004-a96c-8e5da2872a69/products"
+    }
+    ],
+    "url": "http://localhost:8000/api/v1/categories/4d9ccc47-d7b1-4600-9124-a33e2c363e46/products"
+    },
+    {
+    "id": "02e78b99-93dc-483b-b8d8-8325f55f99b5",
+    "name": "electrohogar",
+    "createdAt": "2023-01-25T23:23:55.646Z",
+    "updatedAt": "2023-01-25T23:23:55.646Z",
+    "subCategories": [],
+    "url": "http://localhost:8000/api/v1/categories/02e78b99-93dc-483b-b8d8-8325f55f99b5/products"
+    },
+    {
+    "id": "385711c9-0367-445f-a79f-763dcf693f76",
+    "name": "dormitorio",
+    "createdAt": "2023-01-25T23:26:29.821Z",
+    "updatedAt": "2023-01-25T23:26:29.821Z",
+    "subCategories": [],
+    "url": "http://localhost:8000/api/v1/categories/385711c9-0367-445f-a79f-763dcf693f76/products"
+    },
+    {
+    "id": "5d143c1d-626d-453e-860d-17975947c187",
+    "name": "mujer",
+    "createdAt": "2023-01-25T23:23:15.846Z",
+    "updatedAt": "2023-01-25T23:23:15.846Z",
+    "subCategories": [],
+    "url": "http://localhost:8000/api/v1/categories/5d143c1d-626d-453e-860d-17975947c187/products"
+    },
+    {
+    "id": "964ccd67-cc5a-4382-b3bf-21992f256705",
+    "name": "hombre",
+    "createdAt": "2023-01-25T23:23:07.870Z",
+    "updatedAt": "2023-01-25T23:23:07.870Z",
+    "subCategories": [],
+    "url": "http://localhost:8000/api/v1/categories/964ccd67-cc5a-4382-b3bf-21992f256705/products"
+    }
+    ]
+    }

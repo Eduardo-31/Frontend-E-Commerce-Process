@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --yellow: #FFFF00;
+  --yellow-claro: #EEFD69;
+  --yelloww: #D5E80C;
+  --yellowww: #E1F310;
+  --morado: #4F48EC;
+  --morado-claro: #CBAFEA;
+  --black: #090013;
+  --blackk: #131313;
+  --black-claro: #212121;
+  --orange-claro: #E67F47;
+  --green: #4CB299;
+  --greenn: #39C7A5;
+  --green-claro: #02D480;
+  --blue: #191A30;
+  --bg-white: #E7EAE9;
+  --bg-white-claro: #e5e4df
+}
+
+
+
+.grid {
+  width: 80%;
+  min-height: 100vh;
+  margin: 50px auto;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(170px, 100%), 1fr));
+  grid-auto-rows: 280px;
+  gap: 4px;
+}
+
+.grid__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+
+
+.redd {
+  width:30px;
+  height: 30px;
+  fill: rgb(231, 20, 20);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1, h2, h3, h4, h5 ,h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+input {
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  border: transparent;
+  background-color: transparent;
+}
+
+
